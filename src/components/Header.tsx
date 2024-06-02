@@ -25,7 +25,7 @@ function Header() {
       <div className="flex space-x-2">
         <GenreDropdown />
         <SearchInput />
-        <ThemeToggler />
+        {/* <ThemeToggler /> */}
       </div>
     </header>
   )
